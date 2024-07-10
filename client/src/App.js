@@ -53,7 +53,7 @@ function App() {
       <div className="configuration-section card mb-4">
         <div className="card-body">
           <h2 className="card-title">Configuration</h2>
-          <p className="card-text">IMPORTANT: You must supply your OpenAI API key in this box. It will be used to query the OpenAI API.</p>
+          <p className="card-text">IMPORTANT: YOU MUST SUPPLY YOUR OPENAI API KEY IN THIS BOX. IT WILL BE USED TO QUERY THE OPENAI API.</p>
           <input
             type="text"
             className="form-control"
